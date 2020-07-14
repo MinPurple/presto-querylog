@@ -1,0 +1,3 @@
+com/github/presto/querylog/QueryLogListener.class
+com/github/presto/querylog/QueryLogPlugin.class
+com/github/presto/querylog/QueryLogListenerFactory.class

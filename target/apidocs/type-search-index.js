@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.github.presto.querylog","l":"QueryLogListener"},{"p":"com.github.presto.querylog","l":"QueryLogListenerFactory"},{"p":"com.github.presto.querylog","l":"QueryLogPlugin"},{"l":"所有类","url":"allclasses-index.html"}]

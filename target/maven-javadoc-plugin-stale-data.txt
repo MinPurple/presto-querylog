@@ -1,0 +1,61 @@
+/usr/local/opt/openjdk/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/taptap/.m2/repository/io/prestosql/presto-spi/331/presto-spi-331.jar:/Users/taptap/.m2/repository/io/airlift/slice/0.38/slice-0.38.jar:/Users/taptap/.m2/repository/org/openjdk/jol/jol-core/0.2/jol-core-0.2.jar:/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+11
+-sourcepath
+'/Users/taptap/Desktop/presto-querylog/src/main/java:/Users/taptap/Desktop/presto-querylog/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/taptap/Desktop/presto-querylog/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Presto Query Log 0.4.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/taptap/Desktop/presto-querylog/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Presto Query Log 0.4.0-SNAPSHOT API'
+com.github.presto.querylog
+com.github.presto.querylog
+com.github.presto.querylog
+/Users/taptap/.m2/repository/io/prestosql/presto-spi/331/presto-spi-331.jar = 1594371929015
+/Users/taptap/.m2/repository/io/airlift/slice/0.38/slice-0.38.jar = 1594371928104
+/Users/taptap/.m2/repository/org/openjdk/jol/jol-core/0.2/jol-core-0.2.jar = 1594371928038
+/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar = 1594371935784
+/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar = 1594371929198
+/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar = 1594371940779
+/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar = 1594371929995
+/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar = 1594371929656
+/Users/taptap/Desktop/presto-querylog/src/main/java = 1594719169559
+/Users/taptap/Desktop/presto-querylog/target/generated-sources/annotations = 1594719918348
+/Users/taptap/Desktop/presto-querylog/target/apidocs/constant-values.html = 1594719924894
+/Users/taptap/Desktop/presto-querylog/target/apidocs/member-search-index.zip = 1594719924942
+/Users/taptap/Desktop/presto-querylog/target/apidocs/overview-tree.html = 1594719924918
+/Users/taptap/Desktop/presto-querylog/target/apidocs/index.html = 1594719924966
+/Users/taptap/Desktop/presto-querylog/target/apidocs/package-search-index.js = 1594719924935
+/Users/taptap/Desktop/presto-querylog/target/apidocs/package-search-index.zip = 1594719924940
+/Users/taptap/Desktop/presto-querylog/target/apidocs/type-search-index.zip = 1594719924941
+/Users/taptap/Desktop/presto-querylog/target/apidocs/index-all.html = 1594719924943
+/Users/taptap/Desktop/presto-querylog/target/apidocs/allpackages-index.html = 1594719924953
+/Users/taptap/Desktop/presto-querylog/target/apidocs/deprecated-list.html = 1594719924925
+/Users/taptap/Desktop/presto-querylog/target/apidocs/member-search-index.js = 1594719924942
+/Users/taptap/Desktop/presto-querylog/target/apidocs/script.js = 1594719924992
+/Users/taptap/Desktop/presto-querylog/target/apidocs/stylesheet.css = 1594719924990
+/Users/taptap/Desktop/presto-querylog/target/apidocs/help-doc.html = 1594719924984
+/Users/taptap/Desktop/presto-querylog/target/apidocs/system-properties.html = 1594719924956
+/Users/taptap/Desktop/presto-querylog/target/apidocs/element-list = 1594719924864
+/Users/taptap/Desktop/presto-querylog/target/apidocs/allclasses-index.html = 1594719924950
+/Users/taptap/Desktop/presto-querylog/target/apidocs/type-search-index.js = 1594719924941
+/Users/taptap/Desktop/presto-querylog/target/apidocs/search.js = 1594719924993
