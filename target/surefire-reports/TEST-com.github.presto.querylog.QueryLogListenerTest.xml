@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.presto.querylog.QueryLogListenerTest" time="1.145" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.presto.querylog.QueryLogListenerTest" time="1.384" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/14.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/taptap/Desktop/presto-querylog/target/surefire/surefirebooter12238600348973418278.jar /Users/taptap/Desktop/presto-querylog/target/surefire 2020-07-14T17-45-19_499-jvmRun1 surefire18109276321898501867tmp surefire_010070425822517014463tmp"/>
+    <property name="sun.java.command" value="/Users/taptap/Desktop/presto-querylog/target/surefire/surefirebooter5651206494610301241.jar /Users/taptap/Desktop/presto-querylog/target/surefire 2020-07-15T18-37-03_455-jvmRun1 surefire16539605931001874953tmp surefire_010493472174978961285tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/taptap/Desktop/presto-querylog/target/test-classes:/Users/taptap/Desktop/presto-querylog/target/classes:/Users/taptap/.m2/repository/io/prestosql/presto-spi/331/presto-spi-331.jar:/Users/taptap/.m2/repository/io/airlift/slice/0.38/slice-0.38.jar:/Users/taptap/.m2/repository/org/openjdk/jol/jol-core/0.2/jol-core-0.2.jar:/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/Users/taptap/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar:/Users/taptap/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar:/Users/taptap/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/Users/taptap/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/taptap/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/taptap/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/Users/taptap/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/Users/taptap/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/taptap/Desktop/presto-querylog/target/surefire/surefirebooter12238600348973418278.jar"/>
+    <property name="surefire.real.class.path" value="/Users/taptap/Desktop/presto-querylog/target/surefire/surefirebooter5651206494610301241.jar"/>
     <property name="user.script" value="Hans"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -55,6 +55,6 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="queryCreatedEvents" classname="com.github.presto.querylog.QueryLogListenerTest" time="1.111"/>
-  <testcase name="onlyQueryCreatedEvents" classname="com.github.presto.querylog.QueryLogListenerTest" time="0.027"/>
+  <testcase name="queryCreatedEvents" classname="com.github.presto.querylog.QueryLogListenerTest" time="1.354"/>
+  <testcase name="onlyQueryCreatedEvents" classname="com.github.presto.querylog.QueryLogListenerTest" time="0.026"/>
 </testsuite>
